@@ -1,0 +1,13 @@
+# NAME: DIRECT
+# AUTHOR:
+# REPO: https://github.com/btjson/loon/
+# UPDATED: 2024-08-21 11:11:11
+# DOMAIN: 
+# DOMAIN-SUFFIX: 4
+# USER-AGENT: 
+# TOTAL: 
+- DOMAIN-SUFFIX,synology.com,DIRECT
+- DOMAIN-SUFFIX,dyndns.org,DIRECT
+- DOMAIN-SUFFIX,synocommunity.com,DIRECT
+- DOMAIN-SUFFIX,live.hkdvb.com,DIRECT
+  
