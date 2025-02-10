@@ -7,11 +7,11 @@
 # DOMAIN-KEYWORD: 4
 # USER-AGENT: 
 # TOTAL: 
-- DOMAIN-SUFFIX,synology.com
-- DOMAIN-SUFFIX,dyndns.org
-- DOMAIN-SUFFIX,synocommunity.com
-- DOMAIN-SUFFIX,live.hkdvb.com
-- DOMAIN-KEYWORD,dl-a01a-
-- DOMAIN-KEYWORD,dl-a10z-
-- DOMAIN-KEYWORD,dl-a10b-
-- DOMAIN-KEYWORD,dl-z01a-
+DOMAIN-SUFFIX,synology.com
+DOMAIN-SUFFIX,dyndns.org
+DOMAIN-SUFFIX,synocommunity.com
+DOMAIN-SUFFIX,live.hkdvb.com
+DOMAIN-KEYWORD,dl-a01a-
+DOMAIN-KEYWORD,dl-a10z-
+DOMAIN-KEYWORD,dl-a10b-
+DOMAIN-KEYWORD,dl-z01a-
