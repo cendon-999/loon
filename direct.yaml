@@ -4,14 +4,14 @@
 # DOMAIN-SUFFIX: 7
 # DOMAIN-KEYWORD: 4
 payload:
-    - DOMAIN-SUFFIX,synology.com
-    - DOMAIN-SUFFIX,dyndns.org
-    - DOMAIN-SUFFIX,synocommunity.com
-    - DOMAIN-KEYWORD,dl-a01a-
-    - DOMAIN-KEYWORD,dl-a10z-
-    - DOMAIN-KEYWORD,dl-a10b-
-    - DOMAIN-KEYWORD,dl-z01a-
-    - DOMAIN-SUFFIX,internetprotocoltelevision.top
-    - DOMAIN-SUFFIX,live.hkdvb.com
-    - DOMAIN-SUFFIX,epg.iill.top
-    - DOMAIN-SUFFIX,dns.yiandrive.com
+- DOMAIN-SUFFIX,synology.com
+- DOMAIN-SUFFIX,dyndns.org    
+- DOMAIN-SUFFIX,synocommunity.com
+- DOMAIN-KEYWORD,dl-a01a-
+- DOMAIN-KEYWORD,dl-a10z-
+- DOMAIN-KEYWORD,dl-a10b-
+- DOMAIN-KEYWORD,dl-z01a-
+- DOMAIN-SUFFIX,internetprotocoltelevision.top
+- DOMAIN-SUFFIX,live.hkdvb.com
+- DOMAIN-SUFFIX,epg.iill.top
+- DOMAIN-SUFFIX,dns.yiandrive.com
