@@ -1,12 +1,8 @@
 # NAME: DIRECT
 # AUTHOR:
-# REPO: https://github.com/btjson/loon/
-# UPDATED: 
-# DOMAIN: 
-# DOMAIN-SUFFIX: 4
+# DOMAIN: 1
+# DOMAIN-SUFFIX: 7
 # DOMAIN-KEYWORD: 4
-# USER-AGENT: 
-# TOTAL: 
 payload:
     - DOMAIN-SUFFIX,synology.com
     - DOMAIN-SUFFIX,dyndns.org
