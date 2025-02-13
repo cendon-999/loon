@@ -6,6 +6,7 @@
 payload:
 - DOMAIN-SUFFIX,immortalwrt.org
 - DOMAIN-SUFFIX,mirrors.vsean.net
+- DOMAIN-SUFFIX,sysupgrade.kyarucloud.moe
 - DOMAIN-SUFFIX,ddns.synology.com
 - DOMAIN-SUFFIX,checkip.synology.com   
 - DOMAIN-SUFFIX,synocommunity.com
