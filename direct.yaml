@@ -4,6 +4,8 @@
 # DOMAIN-SUFFIX: 7
 # DOMAIN-KEYWORD: 4
 payload:
+- DOMAIN-SUFFIX,immortalwrt.org
+- DOMAIN-SUFFIX,vsean.net
 - DOMAIN-SUFFIX,ddns.synology.com
 - DOMAIN-SUFFIX,checkip.synology.com   
 - DOMAIN-SUFFIX,synocommunity.com
