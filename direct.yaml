@@ -4,8 +4,8 @@
 # DOMAIN-SUFFIX: 7
 # DOMAIN-KEYWORD: 4
 payload:
-- DOMAIN-SUFFIX,immortalwrt.org
-- DOMAIN-SUFFIX,mirrors.vsean.net
+- DOMAIN-KEYWORD,immortalwrt.org
+- DOMAIN-KEYWORD,vsean.net
 - DOMAIN-SUFFIX,sysupgrade.kyarucloud.moe
 - DOMAIN-SUFFIX,ddns.synology.com
 - DOMAIN-SUFFIX,checkip.synology.com   
