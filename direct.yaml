@@ -5,6 +5,8 @@
 # DOMAIN-KEYWORD: 5
 payload:
 - DOMAIN-SUFFIX,sysupgrade.kyarucloud.moe
+- DOMAIN-KEYWORD,immortalwrt.org
+- DOMAIN-SUFFIX,mirrors.vsean.net
 - DOMAIN-SUFFIX,ddns.synology.com
 - DOMAIN-SUFFIX,checkip.synology.com   
 - DOMAIN-SUFFIX,synocommunity.com
