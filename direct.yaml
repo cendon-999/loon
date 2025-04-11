@@ -17,11 +17,11 @@ payload:
 # - DOMAIN-KEYWORD,ps5
 - DOMAIN-KEYWORD,playstation
 - DOMAIN-KEYWORD,xbox
-- DOMAIN-SUFFIX,nintendo.net
-- DOMAIN-SUFFIX,ea.com
-- DOMAIN-SUFFIX,steamcontent.com
-- DOMAIN-SUFFIX,steampowered.com
-- DOMAIN-SUFFIX,epicgames.com
+# - DOMAIN-SUFFIX,nintendo.net
+# - DOMAIN-SUFFIX,ea.com
+# - DOMAIN-SUFFIX,steamcontent.com
+# - DOMAIN-SUFFIX,steampowered.com
+# - DOMAIN-SUFFIX,epicgames.com
 - DOMAIN-KEYWORD,dl-a01a-
 - DOMAIN-KEYWORD,dl-a10z-
 - DOMAIN-KEYWORD,dl-a10b-
