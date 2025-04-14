@@ -11,9 +11,9 @@ payload:
 - DOMAIN-SUFFIX,checkip.synology.com   
 - DOMAIN-SUFFIX,synocommunity.com
 # Game Domains
-# - DOMAIN-SUFFIX,playstation.net
-# - DOMAIN-SUFFIX,playstation.com
-# - DOMAIN-SUFFIX,sonyentertainmentnetwork.com
+- DOMAIN-SUFFIX,playstation.net
+- DOMAIN-SUFFIX,playstation.com
+- DOMAIN-SUFFIX,sonyentertainmentnetwork.com
 # - DOMAIN-KEYWORD,ps5
 # - DOMAIN-KEYWORD,playstation
 # - DOMAIN-KEYWORD,xbox
