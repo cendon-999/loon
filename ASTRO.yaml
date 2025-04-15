@@ -10,8 +10,8 @@ payload:
     - DOMAIN-SUFFIX,secureswiftcontent.com
     - DOMAIN-SUFFIX,nocookie.net
     - DOMAIN-SUFFIX,verspective.net
-    - DOMAIN-SUFFIX,cloudfront.net
-    # - DOMAIN-SUFFIX,astro.com.my
+    # - DOMAIN-SUFFIX,cloudfront.net
+    - DOMAIN-SUFFIX,astro.com.my
     - DOMAIN-SUFFIX,adaptive.stream
     - DOMAIN-SUFFIX,sooka.my
     - DOMAIN-SUFFIX,wanicelife.com
