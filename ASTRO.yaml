@@ -55,7 +55,7 @@ payload:
     - DOMAIN-SUFFIX,lionsgatechannels.com
     - DOMAIN-SUFFIX,sysln.id
     - DOMAIN-SUFFIX,indihometv.com
-    - DOMAIN-SUFFIX,amazonaws.com
+    # - DOMAIN-SUFFIX,amazonaws.com
     - DOMAIN-SUFFIX,perfecttv.net
     - DOMAIN-SUFFIX,kaltura.com
     - DOMAIN-SUFFIX,transvision.co.id
