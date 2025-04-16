@@ -48,7 +48,7 @@ payload:
     - DOMAIN-SUFFIX,dazn.com
     - DOMAIN-SUFFIX,streamstak.com
     - DOMAIN-SUFFIX,cdn77.org
-    - DOMAIN-SUFFIX,googleusercontent.com
+    # - DOMAIN-SUFFIX,googleusercontent.com
     - DOMAIN-SUFFIX,livesoccertv.com
     - DOMAIN-SUFFIX,barcatv.es
     - DOMAIN-SUFFIX,footprint.net
