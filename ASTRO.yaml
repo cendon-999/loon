@@ -61,10 +61,10 @@ payload:
     - DOMAIN-SUFFIX,transvision.co.id
     - DOMAIN-SUFFIX,aqfadtv.xyz
     - DOMAIN-SUFFIX,danng.me
-    - DOMAIN-SUFFIX,gstatic.com
-    - DOMAIN-SUFFIX,tmdb.org
+    # - DOMAIN-SUFFIX,gstatic.com
+    # - DOMAIN-SUFFIX,tmdb.org
     - DOMAIN-SUFFIX,is.gd
-    - DOMAIN-SUFFIX,workers.dev
+    # - DOMAIN-SUFFIX,workers.dev
     - DOMAIN-SUFFIX,nflxso.net
     - DOMAIN-SUFFIX,tinyurl.com
     - DOMAIN-SUFFIX,visionplus.id
