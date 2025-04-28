@@ -65,7 +65,7 @@ payload:
     # - DOMAIN-SUFFIX,tmdb.org
     - DOMAIN-SUFFIX,is.gd
     # - DOMAIN-SUFFIX,workers.dev
-    - DOMAIN-SUFFIX,nflxso.net
+    # - DOMAIN-SUFFIX,nflxso.net
     - DOMAIN-SUFFIX,tinyurl.com
     - DOMAIN-SUFFIX,visionplus.id
     - DOMAIN-SUFFIX,wakutv.site
