@@ -37,7 +37,7 @@ DOMAIN-SUFFIX,tvmedia.net.au
 DOMAIN-SUFFIX,mytvb.livednow.us.kg
 DOMAIN-SUFFIX,edgeware.tvb.com
 DOMAIN-SUFFIX,beesport.livednow.com
-DOMAIN-SUFFIX,assets.livednow.com
+# DOMAIN-SUFFIX,assets.livednow.com
 DOMAIN-SUFFIX,mytvsuper.us.kg
 DOMAIN-SUFFIX,mainserver.567852.xyz
 DOMAIN-SUFFIX,*.mytvsuper.us.kg
