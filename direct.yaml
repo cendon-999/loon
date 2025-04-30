@@ -31,4 +31,4 @@ payload:
 # - DOMAIN-SUFFIX,tv.iill.top
 - DOMAIN-SUFFIX,epg.iill.top
 - DOMAIN-SUFFIX,dns.yiandrive.com
-- DOMAIN-SUFFIX,cdi.ofiii.com
+# - DOMAIN-SUFFIX,cdi.ofiii.com
