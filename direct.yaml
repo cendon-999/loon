@@ -10,6 +10,7 @@ payload:
 - DOMAIN-SUFFIX,ddns.synology.com
 - DOMAIN-SUFFIX,checkip.synology.com   
 - DOMAIN-SUFFIX,synocommunity.com
+- DOMAIN-SUFFIX,epg.51zmt.top
 # Game Domains
 # - DOMAIN-SUFFIX,playstation.net
 # - DOMAIN-SUFFIX,playstation.com
