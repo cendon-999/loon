@@ -16,3 +16,9 @@ payload:
     - DOMAIN-SUFFIX,cloudflare.com
     - DOMAIN-SUFFIX,plusai.me
     - DOMAIN-SUFFIX,akile.io
+    - DOMAIN-SUFFIX,livednow.dpdns.org
+    - DOMAIN-SUFFIX,4gtv.livednow.dpdns.org
+    - DOMAIN-SUFFIX,docker.livednow.dpdns.org
+    - DOMAIN-SUFFIX,www.livednow.dpdns.org
+    - DOMAIN-SUFFIX,pendy.dpdns.org
+    - DOMAIN-SUFFIX,smart.pendy.dpdns.org
