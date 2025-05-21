@@ -12,8 +12,6 @@ payload:
     - DOMAIN-SUFFIX,mytvsuper.us.kg
     - DOMAIN-SUFFIX,gditv.us.kg
     - DOMAIN-SUFFIX,creativehub.sbs
-    - DOMAIN-SUFFIX,cloudflareclient.com
-    - DOMAIN-SUFFIX,cloudflare.com
     - DOMAIN-SUFFIX,plusai.me
     - DOMAIN-SUFFIX,akile.io
     - DOMAIN-SUFFIX,livednow.dpdns.org
