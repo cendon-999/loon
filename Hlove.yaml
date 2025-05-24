@@ -20,5 +20,3 @@ payload:
     - DOMAIN-SUFFIX,www.livednow.dpdns.org
     - DOMAIN-SUFFIX,pendy.dpdns.org
     - DOMAIN-SUFFIX,smart.pendy.dpdns.org
-    - DOMAIN-SUFFIX,cloudflareclient.com
-    - DOMAIN-SUFFIX,cloudflare.com
