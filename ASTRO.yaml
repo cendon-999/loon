@@ -74,3 +74,6 @@ payload:
     - DOMAIN-SUFFIX,gates.cloudflare.com
     - DOMAIN-SUFFIX,dash.cloudflare.com
     - DOMAIN-SUFFIX,sparrow.cloudflare.com
+    - DOMAIN-SUFFIX,platform.dash.cloudflare.com
+    - DOMAIN-SUFFIX,time.cloudflare.com
+    - DOMAIN-SUFFIX,csp-reporting.cloudflare.com
