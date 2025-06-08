@@ -10,6 +10,8 @@
 # PROCESS-NAME: 6
 # TOTAL: 725
 payload:
+  - DOMAIN-SUFFIX,pendy.dpdns.org
+  - DOMAIN-SUFFIX,smart.pendy.dpdns.org
   - DOMAIN-SUFFIX,4gtv.livednow.us.kg
   - DOMAIN,voice.telephony.goog
   - DOMAIN-SUFFIX,o11tvb.vip-tptv.xyz
