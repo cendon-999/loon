@@ -9,7 +9,7 @@ payload:
 - DOMAIN-SUFFIX,mirrors.vsean.net
 - DOMAIN-SUFFIX,ddns.synology.com
 - DOMAIN-SUFFIX,checkip.synology.com   
-- DOMAIN-SUFFIX,synocommunity.com
+#- DOMAIN-SUFFIX,synocommunity.com
 - DOMAIN-SUFFIX,epg.51zmt.top
 # Game Domains
 # - DOMAIN-SUFFIX,playstation.net
