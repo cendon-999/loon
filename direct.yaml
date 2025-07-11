@@ -11,7 +11,8 @@ payload:
 - DOMAIN-SUFFIX,checkip.synology.com   
 #- DOMAIN-SUFFIX,synocommunity.com
 - DOMAIN-SUFFIX,epg.51zmt.top
-- DOMAIN-SUFFIX,8897122.xyz
+#- DOMAIN-SUFFIX,8897122.xyz
+#- DOMAIN-SUFFIX,emby1.zn.al
 # Game Domains
 # - DOMAIN-SUFFIX,playstation.net
 # - DOMAIN-SUFFIX,playstation.com
