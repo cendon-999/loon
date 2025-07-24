@@ -41,5 +41,5 @@ DOMAIN-SUFFIX,beesport.livednow.com
 DOMAIN-SUFFIX,mytvsuper.us.kg
 DOMAIN-SUFFIX,mainserver.567852.xyz
 DOMAIN-SUFFIX,*.mytvsuper.us.kg
-USER-AGENT,encoreTVB*
-USER-AGENT,mytv*
+#USER-AGENT,encoreTVB*
+#USER-AGENT,mytv*
