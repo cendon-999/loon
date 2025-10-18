@@ -1,4 +1,6 @@
-158.101.77.33:443#JP
-167.253.157.173:443#SG
-172.105.120.36:443#SG
-138.2.64.229:443#SG
+cf.877774.xyz:443#JP-秋名山
+cfip.xxxxxxxx.tk:443#US-OTC
+cdn.2020111.xyz:443#US-2020111.xyz
+cfip.cfcdn.vip:443#cfi
+cf.0sm.com:443#"US-0sm
+cfip.1323123.xyz:443#US-cfip.1323123.xyz
