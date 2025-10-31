@@ -1,0 +1,8 @@
+# NAME: Direct
+# DOMAIN: 1
+# DOMAIN-KEYWORD: 0
+# DOMAIN-SUFFIX: 1
+# TOTAL: 4
+payload:
+    - DOMAIN-SUFFIX,appv11.qichacha.net
+    
