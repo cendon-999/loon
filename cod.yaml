@@ -1,0 +1,12 @@
+# NAME: Cod
+# DOMAIN: 5
+# DOMAIN-KEYWORD: 0
+# DOMAIN-SUFFIX: 5
+# TOTAL: 5
+payload:
+    - DOMAIN-SUFFIX,cod-assets.cdn.callofduty.com
+    - DOMAIN-SUFFIX,genesis.stun.us.demonware.net
+    - DOMAIN-SUFFIX,genesis.stun.eu.demonware.net
+    - DOMAIN-SUFFIX,sapphire-lobby.prod.demonware.net
+    - DOMAIN-SUFFIX,ingest.datax.activision.com
+    
