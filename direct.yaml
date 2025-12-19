@@ -7,6 +7,8 @@ payload:
     - DOMAIN-SUFFIX,appv11.qichacha.net
     - DOMAIN-SUFFIX,gst.prod.dl.playstation.net
     - DOMAIN-SUFFIX,oracle.com
+    - DOMAIN-SUFFIX,oraclecloud.com 
     
+
 
 
