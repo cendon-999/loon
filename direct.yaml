@@ -4,11 +4,12 @@
 # DOMAIN-SUFFIX: 1
 # TOTAL: 4
 payload:
-    - DOMAIN-SUFFIX,qichacha.net
+    - DOMAIN-SUFFIX,appv12.qichacha.net
     - DOMAIN-SUFFIX,gst.prod.dl.playstation.net
     #- DOMAIN-SUFFIX,oracle.com
     #- DOMAIN-SUFFIX,oraclecloud.com 
     
+
 
 
 
