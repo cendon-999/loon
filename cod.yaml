@@ -5,6 +5,7 @@
 # TOTAL: 5
 payload:
     - DOMAIN-KEYWORD,callofduty
+    - DOMAIN-KEYWORD,ps5-loginservice.prod.demonware
     - DOMAIN-SUFFIX,cod-assets.cdn.callofduty.com
     - DOMAIN-SUFFIX,genesis.stun.us.demonware.net
     - DOMAIN-SUFFIX,genesis.stun.eu.demonware.net
