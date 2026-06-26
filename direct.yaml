@@ -5,6 +5,7 @@
 # TOTAL: 4
 payload:
     - DOMAIN-KEYWORD,synology
+    - DOMAIN-KEYWORD,fengshows
     - DOMAIN-SUFFIX,appv12.qichacha.net
     - DOMAIN-SUFFIX,gst.prod.dl.playstation.net
     - DOMAIN-SUFFIX,vsean.net
