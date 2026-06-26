@@ -4,6 +4,7 @@
 # DOMAIN-SUFFIX: 1
 # TOTAL: 4
 payload:
+    - DOMAIN-KEYWORD,synology
     - DOMAIN-SUFFIX,appv12.qichacha.net
     - DOMAIN-SUFFIX,gst.prod.dl.playstation.net
     - DOMAIN-SUFFIX,vsean.net
