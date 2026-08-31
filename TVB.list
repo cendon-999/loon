@@ -9,6 +9,8 @@
 DOMAIN,bcbolt446c5271-a.akamaihd.net
 DOMAIN,edge.api.brightcove.com
 DOMAIN,tvbtracking.azurewebsites.net
+DOMAIN-SUFFIX,cmishow.com
+DOMAIN-SUFFIX,cdn.hk.chinamobile.com
 DOMAIN-KEYWORD,hoy.tv
 DOMAIN-KEYWORD,rthktv
 DOMAIN-KEYWORD,iill
