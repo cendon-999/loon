@@ -7,6 +7,9 @@ payload:
     - DOMAIN-KEYWORD,synology
     - DOMAIN-KEYWORD,fengshows
     - DOMAIN-KEYWORD,quickconnect
+    - DOMAIN-SUFFIX,epg.zsdc.eu.org
+    - DOMAIN-SUFFIX,jsdelivr.net
+    - DOMAIN-SUFFIX,utvlive.top
     - DOMAIN-SUFFIX,appv12.qichacha.net
     - DOMAIN-SUFFIX,gst.prod.dl.playstation.net
     - DOMAIN-SUFFIX,vsean.net
